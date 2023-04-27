@@ -1,6 +1,6 @@
 public class Main2 {
     public static void main(String[] args) {
-        Pies2 burek = new Pies2("Burek", 2);
+        Pies2 burek = new Pies2("Puszek", 2);
 
         System.out.println(burek.name);
         System.out.println(burek.age);
