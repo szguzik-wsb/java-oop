@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Pies burek = new Pies();
-        burek.planet = "Merkury";
+        burek.planet = "Ziemia";
         System.out.println(burek.planet);
     }
 }
